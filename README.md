@@ -48,16 +48,7 @@ JustDo is a clean, beginner-friendly To-Do List web application that allows user
 
 If you’re hosting it on GitHub Pages, Netlify, or any platform, you can add:
 
-[🔗 View Live](https://your-live-link.com)
 
----
-
-## 📸 UI Preview
-
-![JustDo Screenshot](screenshot.png)  
-This is how your JustDo task list looks!
-
----
 
 ## 📌 Future Improvements
 
@@ -70,13 +61,9 @@ This is how your JustDo task list looks!
 
 ## 👨‍💻 Author
 
-Made with 💻 by [Your Name]
+Made with 💻 by Arka Ghosh
 
----
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ```
 
